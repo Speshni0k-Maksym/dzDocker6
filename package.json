@@ -8,17 +8,14 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "5.0.0"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://Speshni0k-Maksym.github.io/dzDocker6"
+  "homepage": "https://Speshni0k-Maksym.github.io/dzDocker6",
+  "browserslist": ">0.2%, not dead, not op_mini all"
 }
